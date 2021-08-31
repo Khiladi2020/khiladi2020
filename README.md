@@ -5,12 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on * Text Chat and video Calls * Web App  
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Python repo's
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Web Development <!--
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## GitHub Stats
+
+<a href="https://github.com/Khiladi2020">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khiladi2020&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khiladi2020&theme=dark&layout=compact" />
+</a>
 -->
